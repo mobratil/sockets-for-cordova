@@ -1,5 +1,7 @@
 sockets-for-cordova
 ===================
+This is fork of popular Cordova plugin for TCP socket communication. This fork is maintained by the original author.
+
 This Cordova plugin provides JavaScript API, that allows you to communicate with server through TCP protocol.
 
 Currently we support these platforms: iOS, Android, WP8.
